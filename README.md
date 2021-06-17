@@ -5,7 +5,7 @@ Para ver el proyecto finalizado... [Haz click aquí](https://franbcn93.github.io
 ## Available Scripts
 
 In the project directory, you can run:
-Texto cambiado
+Texto final
 
 ### `npm start`
 
