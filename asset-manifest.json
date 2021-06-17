@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/presupuesto/static/css/main.fc31a152.chunk.css",
+    "main.js": "/presupuesto/static/js/main.dcaafaeb.chunk.js",
+    "main.js.map": "/presupuesto/static/js/main.dcaafaeb.chunk.js.map",
+    "runtime-main.js": "/presupuesto/static/js/runtime-main.55203cae.js",
+    "runtime-main.js.map": "/presupuesto/static/js/runtime-main.55203cae.js.map",
+    "static/js/2.f360a202.chunk.js": "/presupuesto/static/js/2.f360a202.chunk.js",
+    "static/js/2.f360a202.chunk.js.map": "/presupuesto/static/js/2.f360a202.chunk.js.map",
+    "static/js/3.ff8d4461.chunk.js": "/presupuesto/static/js/3.ff8d4461.chunk.js",
+    "static/js/3.ff8d4461.chunk.js.map": "/presupuesto/static/js/3.ff8d4461.chunk.js.map",
+    "index.html": "/presupuesto/index.html",
+    "static/css/main.fc31a152.chunk.css.map": "/presupuesto/static/css/main.fc31a152.chunk.css.map",
+    "static/js/2.f360a202.chunk.js.LICENSE.txt": "/presupuesto/static/js/2.f360a202.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55203cae.js",
+    "static/js/2.f360a202.chunk.js",
+    "static/css/main.fc31a152.chunk.css",
+    "static/js/main.dcaafaeb.chunk.js"
+  ]
+}
