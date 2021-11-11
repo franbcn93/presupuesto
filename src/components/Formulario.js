@@ -38,7 +38,7 @@ export const Formulario = ({ guardarGasto, guardarCrearGasto }) => {
     <form action="" onSubmit={agregarGasto}>
       <h2>Agrega tus gastos aquí</h2>
       {error ? (
-        <Error mensanje="Ambos campos son obligatorios o Presupuesto Incorrecto" />
+        <Error mensaje="Ambos campos son obligatorios o Presupuesto Incorrecto" />
       ) : null}
       <div className="campo">
         <label>Nombre Gasto</label>
